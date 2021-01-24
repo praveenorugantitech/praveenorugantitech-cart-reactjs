@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-cart-reactjs/static/css/main.903db185.chunk.css",
+    "main.js": "/praveenorugantitech-cart-reactjs/static/js/main.3abb19ad.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-cart-reactjs/static/js/runtime-main.7020cea7.js",
+    "static/js/2.9f8ea485.chunk.js": "/praveenorugantitech-cart-reactjs/static/js/2.9f8ea485.chunk.js",
+    "index.html": "/praveenorugantitech-cart-reactjs/index.html",
+    "static/js/2.9f8ea485.chunk.js.LICENSE.txt": "/praveenorugantitech-cart-reactjs/static/js/2.9f8ea485.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7020cea7.js",
+    "static/js/2.9f8ea485.chunk.js",
+    "static/css/main.903db185.chunk.css",
+    "static/js/main.3abb19ad.chunk.js"
+  ]
+}
