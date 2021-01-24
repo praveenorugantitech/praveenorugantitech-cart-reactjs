@@ -1,7 +1,8 @@
 # Cart developed using React JS with Hooks
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-cart/src/images/screenshot.PNG "Cart")
-
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
 
 [Live Demo](https://praveenorugantitech-cart.firebaseapp.com/)
 
